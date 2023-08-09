@@ -1,0 +1,4 @@
+form tkinter import *
+t = Tk()
+l = Lable(text="full name")
+l.pack()
